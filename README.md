@@ -45,7 +45,6 @@ Aplikasi ini memungkinkan admin untuk memilih mesin, memfilter data berdasarkan 
 
 5. Pilih mesin fingerprint yang tersedia, lalu gunakan filter untuk melihat data absensi.
 
-## ⚙️ Konfigurasi
 
 ## ⚙️ Konfigurasi
 
